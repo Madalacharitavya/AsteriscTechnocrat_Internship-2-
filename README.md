@@ -22,4 +22,7 @@ Additionally, it is essential to incorporate features that enhance the user expe
 Finally, the success of the e-commerce website relies on continuous monitoring of website analytics and sales data to identify areas for improvement, understand customer behavior, and make data-driven decisions to optimize the website's performance and boost sales.
 
 *# output *#
+
+![My project-1](https://github.com/Madalacharitavya/AsteriscTechnocrat_Internship-2-/assets/102969979/2da75363-83fe-40d2-86f0-9e0061d03e13)
+
 https://www.linkedin.com/feed/update/urn:li:activity:7089291151517626368/
